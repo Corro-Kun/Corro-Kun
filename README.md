@@ -6,7 +6,7 @@
         <br>
         Soy Corro-Kun un estudiante y me gusta el desarrollo y diseño de todo tipo, excepto el móvil, lo odio >:v
         <br>
-        <img src="assets/Ai.gift" alt="Ai Otho">
+        <img src="Ai.gif" alt="Ai Otho">
         <br>
         ~ Corro-Kun ~
     </b>
