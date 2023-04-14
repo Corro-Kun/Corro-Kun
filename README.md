@@ -10,7 +10,7 @@
         Soy Corro-Kun un estudiante y me gusta el desarrollo y diseño de todo tipo, excepto el movil, lo odio >:v
       </b>
       <br>
-        <image src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F897834875682294021%2F&psig=AOvVaw3vSeCMUluLML_-ARXZsQdd&ust=1681592311741000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjv_9Shqv4CFQAAAAAdAAAAABAn">
+        ![Ai Ohto](https://i.pinimg.com/originals/ab/8b/a3/ab8ba38620ad67677d2b5940f372887f.gif)
       <br>
       <b>
          ~ Corro-Kun ~
