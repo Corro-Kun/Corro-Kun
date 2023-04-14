@@ -19,6 +19,10 @@
 
 <br>
 
-## "Lenguajes y herramientas que domino ✨
+## Lenguajes y herramientas que domino ✨
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs,mysql,nodejs,react,vite,express,linux,git,github,vscode)]()
+
+## Detalles 👌
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Corro-Kun&theme=dark&hide_border=true&border_radius=5&locale=es&type=png)](https://git.io/streak-stats)
