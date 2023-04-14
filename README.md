@@ -28,6 +28,6 @@
 
 ## Detalles 👌
 
-            [![GitHub Streak](https://streak-stats.demolab.com?user=Corro-Kun&theme=dark&hide_border=true&border_radius=5&locale=es&type=png&background=45%2C1A1919%2C242424&fire=0F90EB&ring=0F9BEB&currStreakLabel=0FA4EB&dates=1FA9EBA2&currStreakNum=0F90EB&sideLabels=0AB3F7&sideNums=0F90EB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Corro-Kun&theme=dark&hide_border=true&border_radius=5&locale=es&type=png&background=45%2C1A1919%2C242424&fire=0F90EB&ring=0F9BEB&currStreakLabel=0FA4EB&dates=1FA9EBA2&currStreakNum=0F90EB&sideLabels=0AB3F7&sideNums=0F90EB)](https://git.io/streak-stats)
 
 </details>
