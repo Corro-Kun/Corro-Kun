@@ -30,6 +30,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Corro-Kun&theme=dark&hide_border=true&border_radius=5&locale=es&type=png&background=45%2C1A1919%2C242424&fire=0F90EB&ring=0F9BEB&currStreakLabel=0FA4EB&dates=1FA9EBA2&currStreakNum=0F90EB&sideLabels=0AB3F7&sideNums=0F90EB)](https://git.io/streak-stats)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corro-Kun&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=139DF2&icon_color=17A2FF")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corro-Kun&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=20212C&text_color=206E8C&title_color=139DF2&icon_color=17A2FF")](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
