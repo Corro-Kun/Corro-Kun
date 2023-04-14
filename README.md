@@ -1,3 +1,4 @@
+<!-- Perfil -->
 <p align="left"><strong><samp>「</samp></strong></p>
 
 <p align="center">
@@ -17,3 +18,7 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
+
+## "Lenguajes y herramientas que domino ✨
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs,nodejs,react,vite,linux,git,github,vscode)]()
