@@ -21,7 +21,7 @@
 
 ## Lenguajes y herramientas que domino ✨
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs,mysql,nodejs,react,vite,express,linux,git,github,vscode)]()
+[![My tools](https://skillicons.dev/icons?i=nodejs,react,vite,nextjs,express,flutter,tauri,dotnet,linux,vscode,git,github)]()
 
 <details>
     <summary>Ver más </summary>
