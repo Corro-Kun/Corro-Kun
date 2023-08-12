@@ -23,6 +23,8 @@
 
 [![My tools](https://skillicons.dev/icons?i=nodejs,react,vite,nextjs,express,flutter,tauri,dotnet,linux,vscode,git,github)]()
 
+[![My languages](https://skillicons.dev/icons?i=html,css,js,ts,py,dart,cs,rust,mysql,postgres,mongodb)]()
+
 <details>
     <summary>Ver más </summary>
 
