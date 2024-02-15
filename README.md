@@ -3,9 +3,9 @@
 
 <p align="center">
     <b>
-        ¡¡¡Hola a todos!!!
+        ¡¡¡Hello everyone!!!
         <br>
-        Soy Corro-Kun un estudiante y me gusta el desarrollo y diseño de todo tipo, excepto el móvil, lo odio >:v
+        I love programming and development, I can't sit still 😅
         <br>
         <br>
         <img src="Idol.gif" alt="Ai Otho">
