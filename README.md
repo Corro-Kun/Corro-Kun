@@ -22,7 +22,7 @@
 ## Languages and tools I master. ✨
 [![My tools](https://skillicons.dev/icons?i=nodejs,react,vite,nextjs,express,flutter,tauri,spring,linux,vscode,git,github)]()
 
-[![My languages](https://skillicons.dev/icons?i=html,css,js,ts,py,dart,cs,rust,mysql,postgres,mongodb)]()
+[![My languages](https://skillicons.dev/icons?i=html,css,js,ts,py,dart,java,rust,mysql,postgres,mongodb)]()
 
 <details>
     <summary>Ver más </summary>
