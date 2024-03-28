@@ -27,6 +27,7 @@
 
 [![My tools](https://skillicons.dev/icons?i=linux,arch,vscode,neovim,git,github)]()
 
+
 <details>
     <summary>Ver más </summary>
 
