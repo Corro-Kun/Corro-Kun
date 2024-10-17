@@ -20,9 +20,9 @@
 <br>
 
 ## Languages and tools I master. ✨
-[![My framwork](https://skillicons.dev/icons?i=nodejs,react,vite,astro,express,flutter,tauri,spring,rocket)]()
+[![My framwork](https://skillicons.dev/icons?i=nodejs,react,svelte,astro,express,flutter,tauri,spring,rocket)]()
 
-[![My languages](https://skillicons.dev/icons?i=html,css,js,ts,dart,java,rust,mysql,mongodb)]()
+[![My languages](https://skillicons.dev/icons?i=html,css,js,ts,dart,rust,postgres,mysql,mongodb)]()
 <!-- postgres -->
 
 [![My tools](https://skillicons.dev/icons?i=linux,arch,vscode,neovim,git,github)]()
